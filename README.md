@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# memo
+https://zenn.dev/takassh/scraps/30b79f11c4cb36
